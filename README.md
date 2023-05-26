@@ -9,6 +9,7 @@
 
 ## Scripts
 
+- Updating ASAP..
 - [Chande Momentum Oscillator(CMO) & EMA with Divergences](scripts/Chande%20Momentum%20Oscillator(CMO)%20&%20EMA%20with%20Divergences)
 - [MFI and RSI wih (R/H Divergence)](scripts/MFI%20and%20RSI%20wih%20(R-H%20Divergence))
 
