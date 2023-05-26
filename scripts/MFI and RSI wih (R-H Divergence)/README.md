@@ -12,7 +12,9 @@
 - you can edit your options from indicator settings.
 
 ## Script Screenshots
+
 ![chart](images/chart.png)
 
 ## Script Settings
+
 ![settings](images/settings.png)
