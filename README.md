@@ -43,7 +43,7 @@ I'd like to share some notable achievements that highlight my contributions to t
 
 ## Contact
 
-If you are a TradingView user, you can contact me via private chats. Simply go to my [TradingView profile](https://www.tradingview.com/u/Mohamed3nan/) and click on "Message". I will get back to you as soon as possible.\
+If you are a TradingView user, you can contact me via private chats. Simply go to my [TradingView profile](https://www.tradingview.com/u/Mohamed3nan/) and click on "Message". I will get back to you as soon as possible.
 
 You can also find me on:
 - Twitter: [@Mohamed3nan](https://twitter.com/Mohamed3nan)
