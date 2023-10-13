@@ -10,6 +10,7 @@
 ## Scripts
 
 - Updating ASAP..
+- [Ultimate Pivot Points [MTF/3in1/4Types/Projection/Alerts]-[Anan]](scripts/Ultimate%20Pivot%20Points)
 - [Chande Momentum Oscillator(CMO) & EMA with Divergences](scripts/Chande%20Momentum%20Oscillator(CMO)%20&%20EMA%20with%20Divergences)
 - [MFI and RSI wih (R/H Divergence)](scripts/MFI%20and%20RSI%20wih%20(R-H%20Divergence))
 
@@ -46,7 +47,6 @@ I'd like to share some notable achievements that highlight my contributions to t
 If you are a TradingView user, you can contact me via private chats. Simply go to my [TradingView profile](https://www.tradingview.com/u/Mohamed3nan/) and click on "Message". I will get back to you as soon as possible.
 
 You can also find me on:
-- Twitter: [@Mohamed3nan](https://twitter.com/Mohamed3nan)
 - LinkedIn: [Mohamed3nan](https://www.linkedin.com/in/Mohamed3nan/)
 
 Additionally, I am available for hire on Upwork and Freelancer.
